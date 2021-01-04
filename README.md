@@ -10,8 +10,6 @@ comparison to convince investors that a bike sharing program in Des Moines is lu
 
 ## Results 
 
-https://github.com/dernae/Module_14_Tableau_Citibike/blob/main/tableau_results/Total_trips.PNG
-
 ![Trips](tableau_results/Total_trips.PNG)
 
 ## Summary 
