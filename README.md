@@ -10,6 +10,37 @@ comparison to convince investors that a bike sharing program in Des Moines is lu
 
 ## Results 
 
+### Total Trips 
 ![Trips](tableau_results/Total_trips.PNG)
 
+
+### Customer breakdown 
+![Trips](tableau_results/customers_by_gender.PNG)
+
+
+### The length of time that bikes are checked out for all riders.
+![Trips](tableau_results/checkout_times.PNG)
+
+
+### The number of bike trips by weekday for each hour of the day as a heatmap.
+![Trips](tableau_results/checkout_times_by_gender.PNG)
+
+
+
+### The length of time that bikes are checked out for each gender.
+![Trips](tableau_results/user_trips_gender.PNG)
+
+
+
+### The number of bike trips by gender for each hour for each day of the week as a heatmap.
+![Trips](tableau_results/weekly_trips_by_hour_gender.PNG)
+
+
+
+### The number of bike trips for each hour of each day of the week as a heatmap.
+![Trips](tableau_results/weekly_trips_byhour.PNG)
+
+
+
 ## Summary 
+
