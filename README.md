@@ -2,7 +2,7 @@
 
 ## Overview of the Analysis
 
-The purpose of this analysis is to use Tableau to present a business proposal for a bike-sharing company. The analysis was 
+The purpose of this analysis is to use Tableau as a tool for a business proposal presentation for a bike-sharing company. The analysis was 
 conducted by using data from the "Citibike" bike sharing service. I used trip data from August 2019, a month of the year 
 that is popular for outdoor activities such as biking. The analysis encompasses information such as trip duration, starting 
 and ending points, number of users, number of subscribers, gender and age of riders. This analysis will provide a proportional
